@@ -1,19 +1,16 @@
-### Holaa <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Soy Carlos Leyton
+### Holaa, Soy Carlos Leyton
 
-blablabla
-
+Desarrollador web, Titulado de Ing. informatica en Universidad de Valparaíso, actualmente autodidacta, acumulador crónico de cursos gratis de udemy (tb pagados)
+Valparaíso, Chile
 ---
 
-🧰 Toolbox
+Tecnologías
 
-<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript Logo" width="30" height="30"/>
-<img src="https://cdn.worldvectorlogo.com/logos/html5.svg" alt="JavaScript Logo" width="30" height="30"/>
+<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript Logo" width="30" height="30"/><img src="https://cdn.worldvectorlogo.com/logos/html5.svg" alt="JavaScript Logo" width="30" height="30"/><img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="30" height="30"/>
 
-<img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="30" height="30"/>
 <img src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" alt="" width="30" height="30">
 
-<img src="https://cdn.worldvectorlogo.com/logos/php-1.svg" alt="" width="30" height="30">
-<img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="" width="30" height="30">
+<img src="https://cdn.worldvectorlogo.com/logos/php-1.svg" alt="" width="30" height="30"><img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="" width="30" height="30">
 <img src="https://cdn.worldvectorlogo.com/logos/mysql-5.svg" alt="" width="30" height="30">
 
 ---
