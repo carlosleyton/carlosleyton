@@ -1,16 +1,25 @@
-### Hi there 👋
+### Holaa <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Soy Carlos Leyton
 
-<!--
-**carlosleyton/carlosleyton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+blablabla
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧰 Toolbox
+
+<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript Logo" width="30" height="30"/>
+<img src="https://cdn.worldvectorlogo.com/logos/html5.svg" alt="JavaScript Logo" width="30" height="30"/>
+
+<img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="30" height="30"/>
+<img src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" alt="" width="30" height="30">
+
+<img src="https://cdn.worldvectorlogo.com/logos/php-1.svg" alt="" width="30" height="30">
+<img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="" width="30" height="30">
+<img src="https://cdn.worldvectorlogo.com/logos/mysql-5.svg" alt="" width="30" height="30">
+
+---
+
+## &#x1f4c8; My GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosleyton&hide=java,html,css&theme=outrun)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosleyton&theme=outrun)](https://github.com/anuraghazra/github-readme-stats)
