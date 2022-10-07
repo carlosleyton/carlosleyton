@@ -9,14 +9,7 @@ Desarrollador web, Titulado de Ing. informatica en Universidad de Valparaíso, a
 Valparaíso, Chile
 ---
 
-Tecnologías
-
-<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript Logo" width="30" height="30"/><img src="https://cdn.worldvectorlogo.com/logos/html5.svg" alt="JavaScript Logo" width="30" height="30"/><img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="30" height="30"/>
-
-<img src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" alt="" width="30" height="30">
-
-<img src="https://cdn.worldvectorlogo.com/logos/php-1.svg" alt="" width="30" height="30"><img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="" width="30" height="30">
-<img src="https://cdn.worldvectorlogo.com/logos/mysql-5.svg" alt="" width="30" height="30">
+<a href="https://app.daily.dev/carlosleyton"><img src="https://api.daily.dev/devcards/3fe04682de0342799bce4eb0192eb88a.png?r=n94" width="400" alt="Carlos Leyton's Dev Card"/></a>
 
 ---
 
